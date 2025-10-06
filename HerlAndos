@@ -1,0 +1,86 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>At HerlAndos</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #1c1c1c, #2d2d2d);
+      color: white;
+    }
+    header {
+      background-color: #ffcc00;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #222;
+      font-size: 2em;
+    }
+    section {
+      padding: 30px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      background-color: #ff0033;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    .btn:hover {
+      background-color: #cc002a;
+    }
+    footer {
+[6/10 07.27] Chat_GPT: background: #111;
+      padding: 10px;
+      font-size: 0.9em;
+      text-align: center;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>At HerlAndos</h1>
+    <p>Musik • Kreativitas • AI</p>
+  </header>
+
+  <section>
+    <h2>Selamat datang!</h2>
+    <p>Platform kreatif untuk mengubah lagu, suara, dan aransemen musikmu menggunakan teknologi AI — langsung dari HP.</p>
+    <a href="#!" class="btn">Coba Sekarang</a>
+  </section>
+
+  <section>
+    <h2>🎵 Fitur Unggulan</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>✅ Ubah genre lagu secara otomatis</li>
+      <li>✅ Edit vokal jadi duet atau remix</li>
+      <li>✅ Buat aplikasi musik dari browser HP</li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2025 At HerlAndos. All rights reserved.
+  </footer>
+
+</body>
+</html>
+```
+
+---
+
